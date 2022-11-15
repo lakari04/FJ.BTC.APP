@@ -1,0 +1,5 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/AssemblyExplorer/XmlDocument/@EntryValue">&lt;AssemblyExplorer&gt;&#xD;
+  &lt;Assembly Path="C:\Users\faouzi.jertila\.nuget\packages\nbitcoin.altcoins\3.0.17\lib\net6.0\NBitcoin.Altcoins.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Users\faouzi.jertila\.nuget\packages\nbitcoin\7.0.19\lib\net6.0\NBitcoin.dll" /&gt;&#xD;
+&lt;/AssemblyExplorer&gt;</s:String></wpf:ResourceDictionary>
